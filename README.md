@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DAIN%20LEE&fontSize=90&desc=Welcome%20to%20my%20GitHub!&descAlignY=55&animation=whinkling&fontAlignY=40)
 
 <div align="center" style="display: flex; justify-content: center; gap: 16px;">
+  <!-- 언어 사용량 통계 -->                                   <!-- &layout=compact -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dain391"/>
   <!-- GitHub 통계 -->
   <img src="https://github-readme-stats.vercel.app/api?username=dain391&count_private=true&show_icons=true&theme=default"/>
+</div>
 
-  <!-- 언어 사용량 통계 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dain391"/>
-</div>                                                       <!-- &layout=compact -->
-
-----
+---
 <!-- 👩‍💻 Tech Stack 👩‍💻 -->
 <h3 align="center">👩‍💻 Tech Stack 👩‍💻</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
