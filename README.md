@@ -11,8 +11,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" style="height:20px"/></a>
   <!-- jQuery -->
   <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=ffffff" style="height:20px"/></a>
-  
-<div style="display: flex;">
+</div>
+
+<div align="center" style="display: flex;">
   <!-- MySQL -->
   <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff" style="height:20px"/></a>
   <!-- Python -->
@@ -34,8 +35,9 @@
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=ffffff" style="height:20px"/></a>
   <!-- GitHub -->
   <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=ffffff" style="height:20px"/></a>
-  
-<div style="display: flex;">
+</div>
+
+<div align="center" style="display: flex;">
   <!-- IntelliJ -->
   <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=ffffff" style="height:20px"/></a>
   <!-- Notion (white background) -->
